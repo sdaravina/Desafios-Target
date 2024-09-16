@@ -1,0 +1,46 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TesteTargetUm",
+            "request": "launch",
+            "mainClass": "TesteTargetUm",
+            "projectName": "Desafios-Técnicos_c5cab52e",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "TesteFibonacci",
+            "request": "launch",
+            "mainClass": "TesteFibonacci",
+            "projectName": "Desafios-Técnicos_c5cab52e",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TesteFaturamento",
+            "request": "launch",
+            "mainClass": "TesteFaturamento",
+            "projectName": "Desafios-Técnicos_c5cab52e",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "TesteString",
+            "request": "launch",
+            "mainClass": "TesteString",
+            "projectName": "Desafios-Técnicos_c5cab52e",
+            "console": "integratedTerminal"
+        }
+    ]
+}
